@@ -1,4 +1,4 @@
-# Dynamic-DataStructure
+
 # Dynamic_DataStructure
 The North American Student Tracking Association (NASTA) maintains and operates multiple lists of
 students. Some of these student lists are local to villages, towns and remote areas, where the lists
