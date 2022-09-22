@@ -25,9 +25,7 @@ The CleverSIDC ADT, which automatically adapts to the dynamic content that it op
 In other words, it accepts the size (total number of students, n, identified by their
 8 digits SIDC number as a key) as a parameter and uses an appropriate (set of)
 data structure(s), or other data types, from the one(s) studied in class in order to perform the operations
-below efficiently1. You are NOT allowed however to use any of the built-in data types (that is, you
-must implement whatever you need, for instance, linked lists, expandable arrays, hash tables, etc.
-yourself).
+below efficiently1.
 
 The CleverSIDC must implement the following methods:
 • SetSIDCThreshold (Size): where 100 ≤ Size ≤ ~500,000 is an integer number that defines
